@@ -28,18 +28,12 @@ Next.js apps    FastAPI APIs      Supabase       LangGraph workflows
 - Practical GenAI systems for research, content, operations, voice, travel, invoices, and education.
 - Applying deep learning and computer vision foundations to practical product ideas.
 
-## Featured Projects
+## Engineering Style
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [ai-agent-city-game](https://github.com/Abby263/ai-agent-city-game) | Playable AI city simulation where autonomous citizens live, talk, remember, and build relationships. | TypeScript |
-| [ai-agent-blog-generator](https://github.com/Abby263/ai-agent-blog-generator) | LangGraph and DeepAgents pipeline for grounded technical blog series generation. | Python |
-| [ai-trip-planner-agent](https://github.com/Abby263/ai-trip-planner-agent) | AI trip planning monorepo with Next.js, FastAPI, LangGraph, mock providers, and Vercel deployment. | Python, TypeScript |
-| [ml-interview-roadmap](https://github.com/Abby263/ml-interview-roadmap) | Public roadmap and interview prep platform for ML, GenAI, and ML system design. | TypeScript |
-| [ai-portfolio-agent](https://github.com/Abby263/ai-portfolio-agent) | AI-powered developer portfolio that builds a professional story from GitHub, resume data, and repo actions. | TypeScript |
-| [product-dev-blueprint](https://github.com/Abby263/product-dev-blueprint) | Idea-to-production blueprint generator for SOWs, PRDs, system design, cost estimates, and coding-agent prompts. | TypeScript |
-| [whatsapp-invoice-assistant](https://github.com/Abby263/whatsapp-invoice-assistant) | WhatsApp receipt and invoice assistant with Supabase storage, pgvector search, LangGraph workflows, and an operator UI. | Python |
-| [gen-ai-assistant](https://github.com/Abby263/gen-ai-assistant) | Personal AI assistant for email, schedules, tasks, Slack, research, and document workflows. | Python |
+- Product-first prototypes with clear user workflows, not isolated model demos.
+- Agent systems designed around tools, memory, evaluation, and approval boundaries.
+- Full-stack builds that connect UI, API, storage, vector search, and deployment.
+- Documentation and learning resources that make complex ML and GenAI topics easier to apply.
 
 ## Technical Stack
 
