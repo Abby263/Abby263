@@ -45,15 +45,25 @@ Next.js apps    FastAPI APIs      Supabase       LangGraph workflows
 | Data and infra | Supabase, pgvector, Vercel, GitHub Actions |
 | Product areas | AI agents, automation platforms, voice AI, developer tools, ML education |
 
-## GitHub Snapshot
+## Profile Snapshot
 
-<div align="center">
+| Metric | Current signal |
+| --- | --- |
+| Public repositories | 36 |
+| Primary languages | Python, TypeScript |
+| Other active languages | Jupyter Notebook, HTML, R |
+| GitHub focus | AI agents, GenAI platforms, ML education, automation tools |
+| Member since | September 2016 |
 
-![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abby263&show_icons=true&hide_border=true&theme=default&rank_icon=github)
+## Language Mix
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abby263&layout=compact&hide_border=true&theme=default)
-
-</div>
+| Language | Public repo count |
+| --- | ---: |
+| Python | 11 |
+| TypeScript | 8 |
+| Jupyter Notebook | 5 |
+| HTML | 1 |
+| R | 1 |
 
 ## Connect
 
